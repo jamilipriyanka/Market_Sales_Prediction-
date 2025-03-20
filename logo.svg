@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <style>
+    .text { font: bold 40px sans-serif; fill: #FF1493; }
+    .subtitle { font: 18px sans-serif; fill: #FF69B4; }
+    .icon { fill: #FF1493; }
+  </style>
+  <rect class="icon" x="10" y="30" width="40" height="40" rx="5" />
+  <rect class="icon" x="55" y="30" width="20" height="40" rx="5" />
+  <rect class="icon" x="80" y="50" width="20" height="20" rx="5" />
+  <text x="110" y="50" class="text">Mart</text>
+  <text x="110" y="70" class="subtitle">Sales Prediction</text>
+</svg>
